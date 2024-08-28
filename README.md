@@ -1,4 +1,5 @@
 # Alumni Network DAO
+![image](https://github.com/user-attachments/assets/c07913ce-c2c2-4cde-8329-c7f1d7113fae)
 
 ### Vision
 The Alumni Network DAO is a decentralized platform designed to connect alumni with their alma mater and current students. By leveraging blockchain technology, the DAO facilitates transparent and decentralized funding, mentoring, and governance. Alumni can vote on funding proposals, mentor students, and contribute to the development of future talent in a decentralized manner, ensuring a lasting impact on the community.
